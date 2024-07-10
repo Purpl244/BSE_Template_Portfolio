@@ -48,10 +48,10 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/CaCazFBhYKs](https://www.youtube.com/watch?v=kIg8PyAw-Cs)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+- I have motors and an ultrasonic sensor attached to my car and how they will work together is the motors will move the car around and the sensors will keep the car from crashing into anything.
+- Technical progress you've made so far, I have been able to code the motors and the ultrasonica sensor, the motors will be able to move forward, back, left, and right. Thee ultrasonic sensor is able to measure any distance in its way up to around 200cm.
+- Challenges I face in my future milestones are coding the camera to detect the red ball which i hope will be able to turn into cars soon.
+- My plan is to be able to have multiple seismic snsors that pair with 1 or more cameras so i can attach everything to my bike which will tell me if a car goes into a specific area near my bike so i knowif I am safe or not, I also want to add something which will allow mt prject to connect to the internet and navigate me to where i want to go.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
