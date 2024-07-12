@@ -36,10 +36,10 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- Technical details of what you've accomplished and how they contribute to the final goal, i added an led light to indicate how close the surroundings are which will help me when I attach it onto the bike instead othe red ball it's a car.
+- What has been surprising about the project so far, what suprises me is 
+- Previous challenges you faced that you overcame, my raspberrypi stopped working so I had to redo a lot of codeing and re wire everything
+- What needs to be completed before your final milestone, I need to be able to attach it into my bike handle and add more ultra sonic sensors, and make it so im able to dissconect the power to the raspberry pi and it can run the code without me having to run it manually
 
 # First Milestone
 
@@ -47,7 +47,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 - I have motors and an ultrasonic sensor attached to my car and how they will work together is the motors will move the car around and the sensors will keep the car from crashing into anything.
-- Technical progress you've made so far, I have been able to code the motors and the ultrasonica sensor, the motors will be able to move forward, back, left, and right. Thee ultrasonic sensor is able to measure any distance in its way up to around 200cm.
+- So far, I have been able to code the motors and the ultrasonica sensor, the motors will be able to move forward, back, left, and right. Thee ultrasonic sensor is able to measure any distance in its way up to around 200cm.
 - Challenges I face in my future milestones are coding the camera to detect the red ball which i hope will be able to turn into cars soon.
 - My plan is to be able to have multiple seismic snsors that pair with 1 or more cameras so i can attach everything to my bike which will tell me if a car goes into a specific area near my bike so i knowif I am safe or not, I also want to add something which will allow mt prject to connect to the internet and navigate me to where i want to go.
 
