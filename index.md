@@ -1,5 +1,7 @@
 # Ball Tracking Robot
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+Hello everyone! I'm excited to share my latest project evolution: from a ball-tracking robot to a bike assistant designed to keep you safe and informed on the road. After repurposing the base and integrating ChatGPT with a Raspberry Pi as the brain, I've transformed it into a device that not only provides directions but also monitors your surroundings for safety.
+
+Now, mounted on your bike, this assistant uses its capabilities to guide you to your destination. It can detect the distance of approaching cars and activate a warning light if they get too close, ensuring you stay aware and safe throughout your ride.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -10,8 +12,6 @@ You should comment out all portions of your portfolio that you have not complete
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Dejia L | Mission San Jose Highschool | Electronic Engineering | Incoming Sophmore
-
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](car.jpg)
   
@@ -69,8 +69,6 @@ void loop() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
