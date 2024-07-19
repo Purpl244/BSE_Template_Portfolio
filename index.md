@@ -44,7 +44,7 @@ For your first milestone, describe what your project is and how you plan to buil
 - My plan is to be able to have multiple seismic snsors that pair with 1 or more cameras so i can attach everything to my bike which will tell me if a car goes into a specific area near my bike so i knowif I am safe or not, I also want to add something which will allow mt prject to connect to the internet and navigate me to where i want to go.
 
 # Schematics 
-![Headstone Image](scematics.webp)
+![Headstone Image](sscematicsa.webp)
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
