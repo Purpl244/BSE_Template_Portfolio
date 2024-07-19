@@ -15,7 +15,6 @@ Now, mounted on your bike, this assistant uses its capabilities to guide you to 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
 - I was able to intigrate ChatGBT into my raspberrypi
 - What your biggest challenges and triumphs were at BSE, 
 - I learned about how to code, what a raspberrypi even is, and the differences of where you put you wires in a breadboard
@@ -27,7 +26,6 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nUwmPCK7OmI?si=qDu0GlZ9UCoRzkPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - I added an led light to indicate how close the surroundings are which will help me when I attach it onto the bike instead othe red ball it's a car.
 - What suprises me is how just a string of code could change something in real life, I find it very interesting.
 - A previous challenge i faced was my raspberryp I stopped working so I had to redo a lot of codeing and re-wire everything
@@ -37,7 +35,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kIg8PyAw-Cs?si=kNlMRi97fHzxuiml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
 - I have motors and an ultrasonic sensor attached to my car and how they will work together is the motors will move the car around and the sensors will keep the car from crashing into anything.
 - So far, I have been able to code the motors and the ultrasonica sensor, the motors will be able to move forward, back, left, and right. Thee ultrasonic sensor is able to measure any distance in its way up to around 200cm.
 - Challenges I face in my future milestones are coding the camera to detect the red ball which i hope will be able to turn into cars soon.
