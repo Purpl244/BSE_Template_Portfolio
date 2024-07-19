@@ -28,7 +28,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nUwmPCK7OmI?si=qDu0GlZ9UCoRzkPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal, i added an led light to indicate how close the surroundings are which will help me when I attach it onto the bike instead othe red ball it's a car.
+- Technical details of what you've accomplished and how they contribute to the final goal, I added an led light to indicate how close the surroundings are which will help me when I attach it onto the bike instead othe red ball it's a car.
 - What has been surprising about the project so far, what suprises me is 
 - Previous challenges you faced that you overcame, my raspberrypi stopped working so I had to redo a lot of codeing and re wire everything
 - What needs to be completed before your final milestone, I need to be able to attach it into my bike handle and add more ultra sonic sensors, and make it so im able to dissconect the power to the raspberry pi and it can run the code without me having to run it manually
