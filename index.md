@@ -400,9 +400,6 @@ while True:
 
     if 'quit' in prompt.lower():
         break
-
-
-}
 ```
 
 # Bill of Materials
