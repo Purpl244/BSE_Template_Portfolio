@@ -8,7 +8,7 @@ Now, mounted on your bike, this assistant uses its capabilities to guide you to 
 | Dejia L | Mission San Jose Highschool | Electronic Engineering | Incoming Sophmore
 
 ![Headstone Image](car.jpg)
-![Headstone Image](final photo.jpg)
+![Headstone Image](final_photo.jpg)
 # Final Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jRnTVWPPy1M?si=mSEOqdI-4VhvweSj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
